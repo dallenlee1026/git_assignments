@@ -1,0 +1,71 @@
+* {
+    /* border: 1px solid red; */
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+a:link {
+    text-decoration: none;
+    color: rgb(0, 135, 255);
+}
+
+h1 {
+    font-weight: normal;
+}
+
+h4 {
+    padding: 15px;
+    text-align: center;
+    font-weight: normal;
+    color: gray;
+}
+
+form {
+    width: 400px;
+    margin: auto;
+    align-self: center;
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    border: 1px solid lightgray;
+}
+
+div {
+    margin: auto;
+    padding-top: 30px;
+}
+
+p {
+    margin-left: auto;
+}
+
+input {
+    margin-top: 5px;
+    width: 380px;
+    text-align: left;
+    padding: 8px;
+    border-width: 3px solid lightgray;
+    font-size: medium;
+}
+
+button {
+    width: 400px;
+    height: 35px;
+    border-width: thin;
+}
+
+#hyperlink {
+    color: rgb(0, 135, 255);
+}
+
+#continue {
+    background-color: rgb(255, 190, 0);
+}
+
+/* #new {
+    padding: 10px;
+    text-align: center;
+    color: gray;
+} */
